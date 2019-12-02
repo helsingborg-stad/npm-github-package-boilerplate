@@ -1,0 +1,15 @@
+{
+  "name": "@helsingborg-stad/npm-github-package-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "url": "git://https://github.com/helsingborg-stad/npm-github-package-boilerplate"
+  },
+  "license": "ISC"
+}
